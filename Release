@@ -1,8 +1,8 @@
-Origin: ZeusIPX
-Label: ZeusIPX
+Origin: XStyleMOD
+Label: XStyleMOD
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: ZeusIPX Private Repo
+Description: XStyleMOD Repo
