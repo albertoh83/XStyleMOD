@@ -1,0 +1,34 @@
+Package: com.c1d3r.LogoCCX
+Name: LogoCCX
+Version: 1.0-3
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: c1d3r
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
+Package: com.c1d3r.LogoSwitcherX
+Name: LogoSwitcherX
+Version: 1.0-2
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Will Smillie
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
